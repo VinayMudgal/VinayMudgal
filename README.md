@@ -31,7 +31,6 @@ I am a Detail-oriented Data Analyst with expertise in leveraging data-driven ins
 <!-- Connect Section -->
 ## 📫 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/vinay-mudgal/
 - Email: insightfulvinay@gmail.com 
 
 <!-- Footer Section -->
