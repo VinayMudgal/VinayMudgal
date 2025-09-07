@@ -31,7 +31,7 @@ I am a Detail-oriented Data Analyst with expertise in leveraging data-driven ins
 <!-- Connect Section -->
 ## 📫 Let's Connect
 
-- Email: insightfulvinay@gmail.com 
+- Email: insightfulvinay@gmail.com / vmudgal28@gmail.com
 
 <!-- Footer Section -->
 <p align="center">
